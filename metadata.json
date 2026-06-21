@@ -1,0 +1,6 @@
+{
+  "name": "Just2Voice",
+  "description": "A premium AI-powered Text-to-Speech platform inspired by ElevenLabs, supporting multi-language voice synthesis with auto-detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
